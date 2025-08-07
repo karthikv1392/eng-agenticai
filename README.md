@@ -16,8 +16,7 @@ This repo consists of basic code snippets and examples for understanding the con
       7. Click “+ Add a new secret”.
       8. ‘Name’ is you key name, and ‘Value’ is the key
       9. Configure the API Key in Your Code
-      10. Change the name in the 3rd cell if needed: GOOGLE_API_KEY=userdata.get(‘Key_Name’)
-      11. Colab will ask for permission to access your secrets. Grant access to proceed.
+      10. Colab will ask for permission to access your secrets. Grant access to proceed.
 5. Start running each cells (either run all or run one by one for better understanding)
 
 ## Some of our works in this space
